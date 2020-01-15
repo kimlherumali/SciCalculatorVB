@@ -1,0 +1,12 @@
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe.config
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.pdb
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.xml
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.SciCal.resources
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Resources.resources
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.vbproj.GenerateResource.Cache
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.exe
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.xml
+C:\Users\kimlh.SENGABLHER\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.pdb
